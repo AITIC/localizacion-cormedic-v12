@@ -9,7 +9,7 @@
 [submodule "account-payment"]
 	path = account-payment
 	url = https://github.com/ctmil/account-payment
-	branch = 12.0
+	branch = 12.0.reno
 [submodule "miscellaneous"]
 	path = miscellaneous
 	url = https://github.com/ctmil/miscellaneous
